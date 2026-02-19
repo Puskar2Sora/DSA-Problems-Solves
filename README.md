@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Practice-DSA-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Java && C++-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Practice-DSA && CP-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/Puskar2Sora/DSA-Problems?style=for-the-badge">
 </p>
 
 ---
@@ -17,7 +16,7 @@
 <h2>🚀 About This Repository</h2>
 
 <p>
-This repository contains solutions to a wide range of <b>DSA problems</b> solved during:
+This repository contains solutions to a wide range of <b>DSA problems && Competative Programming</b> solved during:
 </p>
 
 <ul>
@@ -47,7 +46,7 @@ Sliding Window • Two Pointer • Bit Manipulation • Intervals
 <h2>⚙️ Tech Stack</h2>
 
 <p>
-<b>Language:</b> Java ☕ <br>
+<b>Language:</b> Java ☕ & C++<br>
 <b>IDE:</b> VS Code / IntelliJ
 </p>
 
@@ -90,53 +89,11 @@ git clone https://github.com/Puskar2Sora/DSA-Problems.git
 
 ---
 
-<h2>🏆 Goal</h2>
-
 <p align="center">
 Master DSA through <b>consistency, structured learning & real problem solving</b> ⚡
 </p>
 
----
-
-<h2>📈 Progress Tracker</h2>
-
+<h2 align="center"> Consistency &gt; Intensity</h2>
 <p align="center">
-🚧 Regular daily updates with new problems<br>
-🔥 Building logic one day at a time
-</p>
-
----
-
-<h2>🤝 Contribution</h2>
-
-<p>
-Contributions are welcome!<br>
-Fork the repo • Improve solutions • Raise a PR 🚀
-</p>
-
----
-<<<<<<< HEAD
-=======
-
->>>>>>> 7c23e78ed00fc4edd1dfdd74d11e78e857817e56
-<h2>📬 Connect With Me</h2>
-
-<p align="center">
-<a href="https://linkedin.com/in/puskar-nath">
-  <img src="https://img.shields.io/badge/LinkedIn-Puskar%20Nath-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://x.com/Last_Safar">
-  <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x">
-</a>
-<a href="https://puskar-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge">
-</a>
-</p>
-
----
-
-<h2 align="center">⭐ Consistency &gt; Intensity</h2>
-
-<p align="center">
-<i>Solve. Learn. Repeat.</i>
+<i>Solve || Learn || Repeat</i>
 </p>
