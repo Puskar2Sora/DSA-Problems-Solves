@@ -12,7 +12,6 @@ class Solution {
             
             if(prefixXor == k)
                 count++;
-                
             int needed = prefixXor ^ k;
             
             if(map.containsKey(needed))
@@ -20,7 +19,6 @@ class Solution {
                 
             map.put(prefixXor, map.getOrDefault(prefixXor, 0) + 1);
         }
-        
         return count;
     }
 }
