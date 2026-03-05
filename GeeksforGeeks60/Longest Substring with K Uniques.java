@@ -8,7 +8,7 @@ class Solution {
         {
             char r=s.charAt(j);
             h.put(r, h.getOrDefault(r,0)+1);
-            
+
             while(h.size()>k)
             {
                 char lr=s.charAt(i);
