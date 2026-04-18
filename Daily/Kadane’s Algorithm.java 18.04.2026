@@ -1,0 +1,13 @@
+class Solution {
+    int maxOnes(int[] arr) {
+        int originalOnes=0, currentGain=0, maxGain = 0;
+        for (int val : arr) {
+            if (val == 1) originalOnes++;
+            int gain = (val == 0)? 1:-1;
+            currentGain += gain;
+            if (currentGain > maxGain) maxGain=currentGain;
+            if (currentGain < 0) currentGain = 0;
+        }
+        return originalOnes + maxGain;
+    }
+}
