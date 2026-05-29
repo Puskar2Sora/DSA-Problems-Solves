@@ -1,6 +1,7 @@
 import java.util.*;
 class Solution {
     public static ArrayList<Integer> findClosestPair(int arr1[], int arr2[], int x) {
+
         
         int i=0, j=arr2.length-1;
         int min=Integer.MAX_VALUE, a=0, b=0;
