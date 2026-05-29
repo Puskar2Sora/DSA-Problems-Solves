@@ -15,6 +15,7 @@ class Solution {
                 min=k;
                 a=arr1[i];
                 b=arr2[j];
+                
             }
             if(s==x) break;
             if(s>x) j--;
