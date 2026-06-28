@@ -22,6 +22,7 @@ class Solution {
     public int maxChocolate(int grid[][]) {
         int n = grid.length;
         int m = grid[0].length;
+        int c= grid[1].length;
         Integer[][][] dp = new Integer[n][m][m];
         return solve(0, 0, m - 1, n, m, grid, dp);
     }
