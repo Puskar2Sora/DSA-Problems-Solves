@@ -20,8 +20,9 @@ This repository contains solutions to a wide range of <b>DSA problems && Competa
 </p>
 
 <ul>
-  <li>#GeekStreak60 challenge</li>
+  <li>GeeksforGeeks challenge</li>
   <li> Daily coding practice</li>
+  <li>LeetCode Solve</li></li>
   <li>Technical interview preparation</li>
 </ul>
 
