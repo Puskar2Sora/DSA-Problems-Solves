@@ -1,8 +1,6 @@
 import java.util.*;
-
 class Solution {
     private int timer = 0;
-
     public ArrayList<Integer> articulationPoints(int V, int[][] edges) {
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
         for (int i = 0; i < V; i++) adj.add(new ArrayList<>());
