@@ -1,14 +1,12 @@
 class Solution
-{
-public:
+{ public:
     vector<vector<int>> adj;
     vector<int> pref;
     vector<vector<int>> arr;
     vector<int> DP;
     vector<vector<int>> Next;
     int Solve(int i, string &s)
-    {
-        int n = s.size();
+    { int n = s.size();
         if (i >= n)
             return 0;
         if (DP[i] != -1)
