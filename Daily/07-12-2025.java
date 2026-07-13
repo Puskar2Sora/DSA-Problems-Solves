@@ -1,8 +1,6 @@
 class Solution {
     int distinctSubseq(String str) {
-       
         int mod = 1000000007;
-
         long[] s = new long[str.length() + 1];
         s[0] = 1;  
         int[] l = new int[26];
