@@ -5,7 +5,7 @@ class Solution {
         int[] adj = new int[V];
         Arrays.fill(adj, -1);
         for (int[] edge : edges) {
-            adj[edge[0]] = edge[1];
+           adj[edge[0]] = edge[1];
         }
 
         int longestCycleLen = -1;
