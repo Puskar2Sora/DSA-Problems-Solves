@@ -1,10 +1,8 @@
 <h1 align="center">DSA Problems</h1>
-
 <p align="center">
   A curated collection of <b>Data Structures & Algorithms solutions in Java</b><br>
   focused on interview preparation, consistency & problem-solving patterns
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java && C++-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Practice-DSA && CP-blue?style=for-the-badge">
