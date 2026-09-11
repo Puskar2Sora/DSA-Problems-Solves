@@ -48,11 +48,11 @@ Sliding Window • Two Pointer • Bit Manipulation • Intervals
 <h2>Key Features</h2>
 
 <ul>
-  <li>✔ Optimized solutions</li>
-  <li>✔ Clean & readable code</li>
-  <li>✔ Interview-oriented problems</li>
-  <li>✔ Pattern-based learning</li>
-  <li>✔ Regular updates</li>
+  <li>Optimized solutions</li>
+  <li>Clean & readable code</li>
+  <li>Interview-oriented problems</li>
+  <li>Pattern-based learning</li>
+  <li>Regular updates</li>
 </ul>
 
 ---
