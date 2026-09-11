@@ -18,7 +18,6 @@ This repository contains solutions to a wide range of <b>DSA problems && Competa
   <li>LeetCode Solve</li></li>
   <li>Technical interview preparation</li>
 </ul>
-
 <p>
 Each solution focuses on <b>clean code, optimized approach, and pattern recognition</b>.
 </p>
