@@ -10,11 +10,9 @@
 </p>
 ---
 <h2>About This Repository</h2>
-
 <p>
 This repository contains solutions to a wide range of <b>DSA problems && Competative Programming</b> solved during:
 </p>
-
 <ul>
   <li>GeeksforGeeks challenge</li>
   <li> Daily coding practice</li>
