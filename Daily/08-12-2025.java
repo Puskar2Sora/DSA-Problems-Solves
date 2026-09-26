@@ -1,6 +1,5 @@
 class Solution {
     public String matrixChainOrder(int arr[]) {
-        
         int n = arr.length - 1, s[][] = new int[n][n], split[][] = new int[n][n];
         for(int h= 2;h<=n;h++)
         {
