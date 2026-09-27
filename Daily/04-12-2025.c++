@@ -11,7 +11,6 @@ class Solution {
         };
         for(int i = 0; i < n; i++)
              dp[i][i] = freq[i];
-
         for(int len = 2; len <= n; len++) {
             for(int i = 0; i + len - 1 < n; i++) {
                 int j = i + len - 1;
