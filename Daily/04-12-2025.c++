@@ -6,8 +6,6 @@ class Solution {
         vector<int> p(n+1, 0);
         for (int i = 0; i < n; i++)
             p[i+1] = p[i] + freq[i];
-      
-
         auto s = [&](int i, int j) {
             return p[j+1] - p[i];
         };
