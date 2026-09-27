@@ -4,7 +4,6 @@ class Solution {
         int n = keys.size();
         vector<vector<int>> dp(n, vector<int>(n, 0));
         vector<int> p(n+1, 0);
-
         for (int i = 0; i < n; i++)
             p[i+1] = p[i] + freq[i];
       
