@@ -7,7 +7,7 @@ class Solution {
           r.append(word1.charAt(i));
         if(i<word2.length())
           r.append(word2.charAt(i));
-     }
+     
      return r.toString();
     }
 }
