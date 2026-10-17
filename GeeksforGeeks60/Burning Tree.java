@@ -32,7 +32,7 @@ class Solution {
             }
         }
         return res;
-    }
+    
     private int calculateBurnTime(Node targetNode, Map<Node, Node> parentMap) {
         Queue<Node> q = new LinkedList<>();
         Set<Node> visited = new HashSet<>();
