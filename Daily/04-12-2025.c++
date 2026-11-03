@@ -15,6 +15,7 @@ class Solution {
             for(int i = 0; i + len - 1 < n; i++) {
                 int j = i + len - 1;
                 dp[i][j] = INT_MAX;
+              
           for(int r = i; r <= j; r++) {
                     int left = (r > i) ? dp[i][r-1] : 0;
                     int right = (r < j) ? dp[r+1][j] : 0;
