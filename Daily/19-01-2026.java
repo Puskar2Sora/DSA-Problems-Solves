@@ -2,7 +2,6 @@ class Solution {
     public String removeKdig(String s, int k) {
         if(k>= s.length())
            return "0";
-        
         StringBuilder stack=new StringBuilder();
         for(int i=0;i<s.length();i++)
         {
