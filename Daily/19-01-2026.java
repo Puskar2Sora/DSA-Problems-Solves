@@ -18,12 +18,9 @@ class Solution {
             k--;
         }
         int m=0;
-       
         while(m<stack.length() && stack.charAt(m)=='0')
              m++;
-        
         String an = stack.substring(m);
         return an.length() == 0 ? "0" : an;
-        
     }
 }
