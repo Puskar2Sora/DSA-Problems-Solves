@@ -13,7 +13,6 @@ class Solution {
             }
             stack.append(c);
         }
-       
         while (k > 0 && stack.length() > 0) {
             stack.deleteCharAt(stack.length() - 1);
             k--;
