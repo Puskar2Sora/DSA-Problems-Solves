@@ -17,7 +17,6 @@ class Solution {
             stack.deleteCharAt(stack.length() - 1);
             k--;
         }
-        
         int m=0;
        
         while(m<stack.length() && stack.charAt(m)=='0')
