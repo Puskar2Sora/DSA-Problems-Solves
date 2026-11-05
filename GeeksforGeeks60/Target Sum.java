@@ -7,7 +7,6 @@ class Solution {
             return 0;
         int subsetTarget=(target+totalSum)/2;
         if (subsetTarget<0) return 0;
-
         return countSubsets(arr,subsetTarget);
     }
     private int countSubsets(int[] arr, int s) {
