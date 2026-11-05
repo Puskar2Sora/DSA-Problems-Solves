@@ -10,7 +10,6 @@ class Solution {
 
         return countSubsets(arr,subsetTarget);
     }
-
     private int countSubsets(int[] arr, int s) {
         int[] dp = new int[s+1];
         dp[0] = 1; 
