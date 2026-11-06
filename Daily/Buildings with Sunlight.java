@@ -9,6 +9,6 @@ class Solution {
               m=arr[i];  
             }
         }
-        return c;
+        
     }
 }
